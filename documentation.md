@@ -1,4 +1,4 @@
-#Descriptive geometry exercices visualizer!
+Descriptive geometry exercices visualizer!
 
 
 Point(x, y, z) => creates a point and renders it to the screen.
